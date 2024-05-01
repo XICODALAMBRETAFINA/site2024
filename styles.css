@@ -14,6 +14,7 @@ body {
 h1, h2 {
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
+    color: black;
 }
 
 header {
@@ -82,4 +83,17 @@ nav ul li a:hover {
 
 .tamanho3{
     width: 70%;
+}
+
+.par{
+    color: blue;
+    font-size: 20pt;
+    font-family: Verdana;
+  }
+  
+.impar{
+    color:  red;
+    font-size: 16pt;
+    font-family: Arial;
+    text-shadow: rgb(9, 36, 9) 1px 2px 6px;
 }
